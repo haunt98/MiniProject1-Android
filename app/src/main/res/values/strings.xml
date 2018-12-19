@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiniProject1-CNTN16</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="exit">Exit</string>
+    <string name="info">Info</string>
+    <string name="search_place">Search places here</string>
+    <string name="your_favorite_places">Your favorite places</string>
+    <string name="favo">Favorite</string>
+    <string name="call">CALL</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="location">Location</string>
+    <string name="my_name">Nguyen Tran Hau</string>
+</resources>
